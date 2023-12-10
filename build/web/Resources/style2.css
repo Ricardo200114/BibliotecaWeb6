@@ -1,0 +1,28 @@
+
+.menu {
+    background-image: url("images/bib.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.shadow{
+    padding-top: 2%;
+    color: #330202;
+    background: rgba(128, 128, 128, 0.5);
+    margin-top: 1.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    border-radius: 15px;
+    padding-top: 0.1%;
+}
+
+.imagen{
+    height: 70px;
+    width: 70px;
+}
+
+.abc{
+    padding-top: 1%;
+}
+
